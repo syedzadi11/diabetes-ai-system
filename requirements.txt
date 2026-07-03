@@ -1,2 +1,7 @@
 pandas
 scikit-learn
+streamlit
+transformers
+torch
+pillow
+ 
